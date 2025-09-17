@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://achm.netlify.app/sitemap.xml
+Sitemap: https://homeachmadsrim.vercel.app/sitemap.xml
